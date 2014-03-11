@@ -8,6 +8,11 @@
   },
   "keywords": [ "stream", "queue" ],
   "author": "Darel Finkbeiner",
-  "license": "BSD"
+  "license": "BSD",
+  "homepage": "https://github.com/darelf/stream-queue",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darelf/stream-queue.git"
+  }
 }
 
