@@ -1,6 +1,6 @@
 {
   "name": "stream-queue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Distributed queue",
   "dependencies": {
     "event-stream": "3.1.x",
